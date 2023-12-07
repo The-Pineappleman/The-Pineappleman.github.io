@@ -2528,6 +2528,10 @@ details.collapse summary::-webkit-details-marker {
   border-left-width: 4px;
 }
 
+.border-none {
+  border-style: none;
+}
+
 .border-cat1 {
   --tw-border-opacity: 1;
   border-color: rgb(255 179 51 / var(--tw-border-opacity));
